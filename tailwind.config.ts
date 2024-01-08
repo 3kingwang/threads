@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  typescript: { ignoreBuildErrors: true },
+ 
   darkMode: ["class"],
   content: [
     "./pages/**/*.{ts,tsx}",
